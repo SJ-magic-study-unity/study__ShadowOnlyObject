@@ -1,0 +1,9 @@
+/************************************************************
+only shadow object
+************************************************************/
+■【Tips】Unityで影だけのオブジェクトを出す
+	https://cfm-art.sakura.ne.jp/sys/archives/519
+	
+	Mesh Renderer
+		Cast shadows : On -> Shadows Only
+
